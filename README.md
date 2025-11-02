@@ -1,4 +1,4 @@
-# Autonomous Exploration of Unknown Indoor Environments Using Multi-UAV System
+# Autonomous Exploration of Unknown Indoor Environments Using Multi-UAV System : The Drone Simulation 
 
 > A coordinated drone swarm system for autonomous indoor exploration and mapping  
 > Published at [ICCCR 2025](https://ieeexplore.ieee.org/abstract/document/11072559)
