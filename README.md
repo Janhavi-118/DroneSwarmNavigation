@@ -9,8 +9,6 @@
 
 This project implements an advanced **multi-UAV system** for autonomous exploration and mapping of unknown indoor GPS-denied environments. The system uses a **master-slave architecture** where a central master drone coordinates several slave drones to achieve efficient area coverage while maintaining battery optimization and safety constraints.
 
-![Drone Formation](fig1.jpg)
-
 ### Key Innovations
 - **Master-Slave Coordination** – Hierarchical control architecture for synchronized swarm behavior
 - **Real-time Indoor Mapping** – LiDAR-based SLAM without GPS dependency  
